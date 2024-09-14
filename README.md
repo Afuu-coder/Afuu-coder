@@ -15,11 +15,11 @@ Welcome to **Loom Luxe**, a modern, responsive website designed for showcasing t
 - **Tailwind CSS**: Utility-first framework for styling.
 - **JavaScript**: Adds interactivity and functionality.
 
-  👥 Team
-1.Kangkan Sonowal 💻
-2.Bibek Biswas 🎨
-3.Ranjit Das 🛠️
-4.Md Afjal Quraishi 📱
+## 👥 Team 
+- **1. Kangkan Sonowal 💻**
+- **2. Bibek Biswas 🎨**
+- **3. Ranjit Das 🛠️**
+- **4. Md Afjal Quraishi 📱**
 
 ## 📂 Folder Structure
 
