@@ -17,20 +17,6 @@ Welcome to the **Clothing & Apparel Website** project! This is a modern, respons
 - **Vanilla CSS**: Custom styles for unique designs.
 - **JavaScript**: Adds interactivity and functionality.
 
-## 🛠️ How to Run the Project
-
-1. Clone the repo:
-    ```bash
-    git clone https://github.com/your-username/clothing-apparel-website.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd clothing-apparel-website
-    ```
-
-3. Open the `index.html` file in your favorite browser 🌐.
-
 ## 📂 Folder Structure
 
 ```plaintext
