@@ -1,34 +1,47 @@
-# 👗 **Loom Luxe** - Clothing & Apparel Website 🧥
+# Hi there 👋, I'm Afjal Quraishi (Afuu-coder)!
 
-Welcome to **Loom Luxe**, a modern, responsive website designed for showcasing the latest fashion trends, built using **HTML**, **Tailwind CSS**, and **JavaScript**. 🎨💻
+🌱 **Second-Year B.Tech CSE Student at DUIET**
 
-## ✨ Features
+I'm an enthusiastic and motivated computer science student, passionate about learning new technologies and building impactful projects. I love exploring the tech world and expanding my skills through hands-on experience.
 
-- 📱 **Responsive Design**: Optimized for all screen sizes.
-- 🎨 **Tailwind CSS**: For fast and easy styling with utility classes.
-- 💻 **JavaScript**: Adds dynamic interactions.
-- 🛒 **Shop Ready**: Perfect for an e-commerce clothing store.
+---
 
-## 🚀 Tech Stack
+## 🚀 My Projects
 
-- **HTML5**: Markup language for structuring the webpage.
-- **Tailwind CSS**: Utility-first framework for styling.
-- **JavaScript**: Adds interactivity and functionality.
+- **[AITRYST](https://github.com/Afuu-coder/AITRYST)**  
+  *A comprehensive AI-powered platform for Indian artisans to transform their handcrafted products into compelling stories and successful businesses. Combines cutting-edge AI with cultural sensitivity to help artisans showcase their crafts to a global audience.*  
+  **Tech stack:** TypeScript
 
-## 👥 Team 
-- **1. Kangkan Sonowal 💻**
-- **2. Bibek Biswas 🎨**
-- **3. Ranjit Das 🛠️**
-- **4. Md Afjal Quraishi 📱**
+- **[sample-app](https://github.com/Afuu-coder/sample-app)**  
+  *A sample application built using Go.*  
+  **Tech stack:** Go
 
-## 📂 Folder Structure
+- **[my_hugo_site](https://github.com/Afuu-coder/my_hugo_site)**  
+  *A personal website generated with Hugo.*  
+  **Tech stack:** HTML
 
-```plaintext
-clothing-apparel-website/
-├── index.html        // Main webpage
-├── css/
-│   ├── tailwind.css  // Tailwind CSS
-│   └── styles.css    // Custom styles
-├── js/
-│   └── script.js     // JavaScript for interactivity
-└── README.md         // This file 😎
+- **[hello-cloudbuild-env](https://github.com/Afuu-coder/hello-cloudbuild-env)**  
+  *A Python project leveraging Google Cloud Build environments.*  
+  **Tech stack:** Python
+
+---
+
+## 🛠️ Languages & Technologies
+
+- TypeScript
+- Go
+- HTML
+- Python
+
+---
+
+## 📫 Connect with Me
+
+- **GitHub:** [Afuu-coder](https://github.com/Afuu-coder)
+- **Email:** afjalambani@gmail.com
+
+---
+
+> “Eager to learn and continuously expand technical skills.”
+
+Thanks for visiting my profile! Feel free to check out my projects or connect with me.
